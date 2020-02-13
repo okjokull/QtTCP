@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/10/25 16:42:09。
+     1>项目“D:\CPPP\MyTcpServer\MyTcpServer.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Moc'ing MyTcpServer.h...
+         Uic'ing MyTcpServer.ui...
+         Rcc'ing MyTcpServer.qrc...
+     1>RCC : warning : No resources in 'D:\CPPP\MyTcpServer\MyTcpServer.qrc'.
+         
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\5.6\msvc2013\include /I.\GeneratedFiles\Debug /ID:\Qt\5.6\msvc2013\include\QtCore /ID:\Qt\5.6\msvc2013\include\QtGui /ID:\Qt\5.6\msvc2013\include\QtNetwork /ID:\Qt\5.6\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_MyTcpServer.cpp main.cpp MyTcpServer.cpp
+         moc_MyTcpServer.cpp
+         main.cpp
+         MyTcpServer.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\5.6\msvc2013\include /I.\GeneratedFiles\Debug /ID:\Qt\5.6\msvc2013\include\QtCore /ID:\Qt\5.6\msvc2013\include\QtGui /ID:\Qt\5.6\msvc2013\include\QtNetwork /ID:\Qt\5.6\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_MyTcpServer.cpp
+         qrc_MyTcpServer.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\MyTcpServer.res" MyTcpServer.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CPPP\MyTcpServer\Win32\Debug\\MyTcpServer.exe" /NOLOGO /LIBPATH:D:\Qt\5.6\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CPPP\MyTcpServer\Win32\Debug\MyTcpServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CPPP\MyTcpServer\Win32\Debug\MyTcpServer.lib" /MACHINE:X86 /SAFESEH Debug\MyTcpServer.res
+         Debug\moc_MyTcpServer.obj
+         Debug\qrc_MyTcpServer.obj
+         Debug\main.obj
+         Debug\MyTcpServer.obj
+         MyTcpServer.vcxproj -> D:\CPPP\MyTcpServer\Win32\Debug\MyTcpServer.exe
+     1>已完成生成项目“D:\CPPP\MyTcpServer\MyTcpServer.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.49
